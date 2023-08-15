@@ -1,0 +1,9 @@
+ Svm with kernel : linear
+ Number points : 8
+ Radius : 1
+ Accuracy : 66.67%
+
+ Confusion Matrix : 
+ 	 male 	 female 
+ male 	 26 	 14 
+ female 	 9 	 21
